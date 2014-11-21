@@ -1,4 +1,4 @@
-![screenshot](http://puu.sh/7IVTe.png)
+![screenshot](http://devnull.lv/mute.png)
 
 This is my simple oh-my-zsh theme.
 
